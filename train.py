@@ -9,7 +9,7 @@ import pandas as pd
 from azureml.core.run import Run
 from azureml.data.dataset_factory import TabularDatasetFactory
 
-ds_path= "https://github.com/QuirkyDataScientist1978/Microsoft-Azure-Machine-Learning-Engineer-Capstone-Project-Udacity-Final-Solution-Submission/blob/main/heart_failure_clinical_records_dataset.csv"
+ds_path= "https://raw.githubusercontent.com/QuirkyDataScientist1978/Microsoft-Azure-Machine-Learning-Engineer-Capstone-Project-Udacity-Final-Solution-Submission/main/heart_failure_clinical_records_dataset.csv"
 
 
 #define x and y
