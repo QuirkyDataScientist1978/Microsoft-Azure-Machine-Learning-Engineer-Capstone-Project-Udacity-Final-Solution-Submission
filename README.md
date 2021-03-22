@@ -15,7 +15,7 @@ This project is part of the Udacity Microsoft Azure Machine Learning Engineer Na
 
 **5. Consume Model Endpoints:**
 
-### XXXX <src="/images/Slide1.PNG">
+### XXXX <img src="/images/Slide1.PNG">
 
 
 ## Future Improvements
