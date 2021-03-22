@@ -7,7 +7,7 @@ This project is part of the Udacity Microsoft Azure Machine Learning Engineer Na
 ## Project Set up and Installation
 **1. This project requires the creation of a compute instance in order to run a Jupyter Notebook & compute cluster to run the Machine Learning Experiments.**
 **2. The dataset has to be manually selected.**
-**3. Two experiments were run using AutoML & HyperDrive
+**3. Two experiments were run using AutoML & HyperDrive.**
 **4. The Best Model Run, Metrics and a deployed model which consumes a RESTful API Webservice in order to interact with the deployed model.**
 
 ## Kaggle Dataset
