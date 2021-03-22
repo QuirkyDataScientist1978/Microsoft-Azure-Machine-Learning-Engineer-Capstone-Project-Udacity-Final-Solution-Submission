@@ -44,7 +44,7 @@ We create an AutoML experiment when we first login to the AzureML portal and cre
 **3. Deploy the Best Model:**
 The deployment of a model is the delivery of the best trained model into production so that i can be consumed by others. The best model obtained in the AutoML run is the VotingEnsemble with the highest accuracy of 0.8973. Deploying the model we configured the deployment settings by enabling authentication and using Azure Container Instance (ACI) [Docker] as it quickly deploys compute instances to deploy models. It is also very simple to utilize.
 
-***4. Enable Logging:**
+**4. Enable Logging:**
 Enabling logging is a crucial step in the process vis a vis Enabling Application Insights. Application insights is a tool that helps in detecting anomalies and visualizing performance. It can be enabled before or after the deployment and can be modified with the SDK. In this project, we enable application insights after deploying by adding specific commands to the python SDK. The modified python script displaying logs.
 
 **5. Swagger Documentation:**
