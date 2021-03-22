@@ -5,10 +5,10 @@ Microsoft Azure Machine Learning Capstone Project for Udacity Nanodegree Program
 This project is part of the Udacity Microsoft Azure Machine Learning Engineer Nanodegree Program. During this project we performed an AutoML run on the Kaggle heart_failure_clinical_records_dataset.csv dataset, deployed the best model obtained from the AutoML as a RESTful API Webservice, consumed endpoints to interact with the deployed model in Microsoft Azure Machine Learning Studio. This project requires expertise in the Azure Machine Learning Studio Cloud and learning associated / ancillary technologies. This is the final project in the Nanodegree Program for Microsoft Azure Machine Learning Engineer. 
 
 ## Project Set up and Installation
-**1. This project requires the creation of a compute instance in order to run a Jupyter Notebook & compute cluster to run the Machine Learning Experiments.**
-**2. The dataset has to be manually selected.**
-**3. Two experiments were run using AutoML & HyperDrive.**
-**4. The Best Model Run, Metrics and a deployed model which consumes a RESTful API Webservice in order to interact with the deployed model.**
+###**1. This project requires the creation of a compute instance in order to run a Jupyter Notebook & compute cluster to run the Machine Learning Experiments.**
+###**2. The dataset has to be manually selected.**
+###**3. Two experiments were run using AutoML & HyperDrive.**
+###**4. The Best Model Run, Metrics and a deployed model which consumes a RESTful API Webservice in order to interact with the deployed model.**
 
 ## Kaggle Dataset
 Name: heart_failure_clinical_records_dataset.csv
